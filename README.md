@@ -2,7 +2,7 @@
 
 A set of 50 pregnancy-related topics derived from a 10% Twitter sample from 2009-2015. 
 
-Read the full publication [here](). 
+Read the full publication [here](https://arxiv.org/abs/2004.06303). 
 
 ## Topics
 
@@ -27,7 +27,7 @@ Available in both csv format and as a MySQL dump.
 Please cite the following paper if you use this data. 
 
 ```
-@inproceedings{AbebeGiorgi2020quantifying,
+@inproceedings{abebegiorgi2020quantifying,
     title={Quantifying Community Characteristics of Maternal Mortality Using Social Media}, 
     author={Abebe, Rediet and Giorgi, Salvatore and Tedijanto, Anna and Buffone, Anneke and Schwartz, H. Andrew}, 
     booktitle={The World Wide Web Conference},
